@@ -1,0 +1,2 @@
+# Memory validation only; no application dependencies.
+PyYAML==6.0.2
